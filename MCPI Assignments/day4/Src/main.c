@@ -35,8 +35,8 @@ int main(void)
 	//LcdPuts(LCD_LINE1, "DESD @ SUNBEAM");
 	//LcdPuts(LCD_LINE2, "GOD BLESS YOU!");
 	while(1){
-		LcdPuts(LCD_LINE1, "DESD @ SUNBEAM");
-			LcdPuts(LCD_LINE2, "GOD BLESS YOU!");
+		LcdPuts(LCD_LINE1, "aj81836");
+			LcdPuts(LCD_LINE2, "ABHIJIT@JADHAV!");
 		for(int i=0;i<16;i++){
 			LcdWrite(LCD_CMD, LCD_SHIFT_RIGHT);
 		    DelayMs(500);
